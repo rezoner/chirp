@@ -16,6 +16,8 @@ Getting started
 
 [Read the wiki](https://github.com/rezoner/chirp/wiki)
 
+[Chirpers community](http://www.reddit.com/r/chirpers)
+
 Current instruments
 ---
 
